@@ -5,7 +5,7 @@
 
 This project contains helper functions and database connection utils for the password generator application.
 
-[forntend side](https://github.com/Abdelkabiir/password-generator-fe)
+[frontend side](https://github.com/Abdelkabiir/password-generator-fe)
 
 [backend side](https://github.com/Abdelkabiir/password-generator-be)
 
